@@ -14,6 +14,7 @@
     <ProjectReference Include="..\..\Shared\FoodWriting.Communication\FoodWriting.Communication.csproj" />
     <ProjectReference Include="..\..\Shared\FoodWriting.Exception\FoodWriting.Exception.csproj" />
     <ProjectReference Include="..\FoodWriting.Application\FoodWriting.Application.csproj" />
+    <ProjectReference Include="..\FoodWriting.Infrastructure\FoodWriting.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
